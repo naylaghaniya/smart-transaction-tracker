@@ -1,0 +1,5 @@
+{
+  "name": "Smart Transaction Tracker",
+  "description": "An intelligent application for tracking your expenses, income, and savings. It uses AI to automatically categorize your transactions based on their description.",
+  "requestFramePermissions": []
+}
